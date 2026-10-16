@@ -9,7 +9,7 @@ import definePlugin from "@utils/types";
 export default definePlugin({
     name: "ShowAllBadges",
     description: "Shows every profile badge instead of collapsing the rest behind +n",
-    authors: [{ name: "ItzMeShadow999", id: 0n }],
+    authors: [{ name: "ItzMeShadow999", id: 1065604516399026176n }],
 
     patches: [
         {
@@ -20,4 +20,4 @@ export default definePlugin({
             }
         }
     ]
-});index.ts
+});
